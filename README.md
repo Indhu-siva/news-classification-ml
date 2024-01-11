@@ -2,7 +2,7 @@
 
 # News Classification Detection using Machine Learning
 
-This project aims to classify news articles into different categories using machine learning techniques. The dataset used for training and evaluation is named "credit.csv," obtained from Kaggle.
+This project aims to classify news articles into different categories using machine learning techniques. The dataset used for training and evaluation is named "train.csv," obtained from Kaggle.
 
 ## Overview
 
