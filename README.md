@@ -17,8 +17,9 @@ The data set used here is **train.csv** downloaded from kaggle.
 
 ## Algorithms used
 
-Linear Algorithm
-Logistic Algorithm
+Linear Algorithm,
+
+Logistic Algorithm.
 
 ## Result:
 
